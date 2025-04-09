@@ -49,7 +49,7 @@ int main() {
 
     do
     {
-        cout << "\n1. Add new name-age pair" << endl;
+        cout << "1. Add new name age pair" << endl;
         cout << "2. Find people above a certain age" << endl;
         cout << "3. Sort and display names alphabetically" << endl;
         cout << "4. Exit" << endl;
