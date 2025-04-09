@@ -141,7 +141,7 @@ int main() {
     int choice, value, k;
 
     do {
-        cout << "\n===== QUEUE MENU =====" << endl;
+        cout << "\n====== QUEUE MENU ======" << endl;
         cout << "1. Enqueue (Add element)" << endl;
         cout << "2. Dequeue (Remove element)" << endl;
         cout << "3. Reverse first K elements" << endl;
