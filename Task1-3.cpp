@@ -153,7 +153,7 @@ int main() {
 
         switch (choice) {
             case 1:
-                cout << "Enter value to enqueue: ";
+                cout << "Enter the value to enqueue: ";
                 cin >> value;
                 queue.Enqueue(value);
                 break;
