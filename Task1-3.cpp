@@ -175,7 +175,7 @@ int main() {
                 cout << "Exiting program..." << endl;
                 break;
             default:
-                cout << "Invalid choice! Try again." << endl;
+                cout << "Invalid choice Try again." << endl;
         }
 
     } while (choice != 6);
